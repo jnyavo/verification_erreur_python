@@ -31,7 +31,7 @@ $ ./somme_de_controle.py <string>
 ```
 
 Utilisation des fonctions
-  - bitParite_pair() et bitParite_impair() prend un bytearray initialisé avec la fonction in-built `bytearray()` en argument.
+  - bitParite_pair() et bitParite_impair() prend un bytearray initialisé avec la fonction in-built `bytearray()` en argument. <br>
     ex : bytearray([10,20,30])
 
  
