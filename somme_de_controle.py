@@ -6,7 +6,7 @@
 def limite_checksum(valeur):
         #verifie si la valeur est plus de 65535
         if (valeur > 65535):
-                return 65535 % 255
+                return valeur % 255
         return valeur
 
 
